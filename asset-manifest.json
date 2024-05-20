@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/focus-mern/static/css/main.ee43a6e0.css",
+    "main.js": "/focus-mern/static/js/main.3e1c752c.js",
+    "static/media/focus-high-resolution-logo-transparent.webp": "/focus-mern/static/media/focus-high-resolution-logo-transparent.2cb06a45c9c0de76ecab.webp",
+    "static/media/mongodb-icon.svg": "/focus-mern/static/media/mongodb-icon.9d3b10999fb8149aa8e066a55724e7c7.svg",
+    "static/media/nodejs.svg": "/focus-mern/static/media/nodejs.679e00d3f1224b41a5c85aca9765b898.svg",
+    "static/media/react.svg": "/focus-mern/static/media/react.0cc978f43ea437de003e85712225e83b.svg",
+    "static/media/express-original.svg": "/focus-mern/static/media/express-original.f44799058ef37b8d72355b15425f9490.svg",
+    "index.html": "/focus-mern/index.html",
+    "main.ee43a6e0.css.map": "/focus-mern/static/css/main.ee43a6e0.css.map",
+    "main.3e1c752c.js.map": "/focus-mern/static/js/main.3e1c752c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee43a6e0.css",
+    "static/js/main.3e1c752c.js"
+  ]
+}
